@@ -12,5 +12,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //testing project
-    //Testing Project Swathya
+    //Hey Pranu
 }
