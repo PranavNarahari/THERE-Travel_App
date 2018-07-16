@@ -21,7 +21,7 @@ public class ExtraActivity extends AppCompatActivity {
     public String client_id = "client_id=SH44CRC112QH2HD2TY2SDATV3Y3R4HRHFWX2I0HNNSGZUDQ5";
     public String client_secret = "client_secret=UIGIVE3BBLSUBVPF3YOOVJBHOWFVBTNXBYFHF1XYBBWDT0IV";
     public String url = "https://api.foursquare.com/v2/venues/search";
-    public String query = "ll=42.2626,-71.8023";
+    public String query = "near=Worcester,MA";
     public JSONObject fullJson;
     public String version = "v=20180628";
     public String addressOfPlace;

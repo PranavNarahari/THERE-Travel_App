@@ -19,9 +19,12 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v){
                 openCreateAccount();
-
             }
         });
+    }
+
+    public LoginActivity() {
+
     }
 
     public LoginActivity(Button button3) {
